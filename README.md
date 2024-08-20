@@ -1,1 +1,1 @@
-# stock_news_alert_python
+Simple python program to create the alert for stocks
